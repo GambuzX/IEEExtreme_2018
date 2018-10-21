@@ -13,14 +13,14 @@ Submissions for the IEEExtreme 2018 competition.
 ### Programming Languages: C++, Javascript
 
 ### Tasks :triangular_flag_on_post:
+* Troll Coder: **100%**
 * Drawing Rooted Binary Trees: **71%**
 * Barter System: **46%**
-* Troll Coder: **100%**
 * Bear Sums: **43%**
 * Infinite snakes and ladders: **40%**
 * Lemons: **30%**
+* Tweedledee's Split Brackets: **7%**
 * Make Distinct: **6%**
 * Xplore: **5%**
-* Tweedledee's Split Brackets: **7%**
 
 ##### Note: scores were based on unitary tests applied to our submission
