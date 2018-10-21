@@ -10,7 +10,9 @@ Submissions for the IEEExtreme 2018 competition.
 
 ### Points: 306.23 :trophy:
 
-### Programming Languages: C++, Javascript
+### Programming Languages
+* C++
+* Javascript
 
 ### Tasks :triangular_flag_on_post:
 * Troll Coder: **100%**
@@ -23,4 +25,4 @@ Submissions for the IEEExtreme 2018 competition.
 * Make Distinct: **6%**
 * Xplore: **5%**
 
-##### Note: scores were based on unitary tests applied to our submission
+##### Note: scores were based on unitary tests applied to each of our submissions
